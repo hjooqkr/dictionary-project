@@ -11,7 +11,11 @@ export default function App() {
         </main>
         <footer>
           This project is coded by Hyunjoo Park and it's{" "}
-          <a href="#" target="_blank">
+          <a
+            href="https://github.com/hjooqkr/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
             open sourced
           </a>
         </footer>
