@@ -1,6 +1,14 @@
 .App-header {
   text-align: center;
+  font-size: 56px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 }
 footer {
   text-align: center;
+  margin-bottom: 30px;
+}
+body {
+  background: #e3eff2;
+  color: #4a4c4c;
 }
