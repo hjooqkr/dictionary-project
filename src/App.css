@@ -4,6 +4,10 @@
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 footer {
   text-align: center;
   margin-bottom: 30px;
